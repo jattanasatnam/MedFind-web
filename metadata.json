@@ -1,0 +1,10 @@
+{
+  "name": "MedFind",
+  "description": "Locate nearby clinics, hospitals, and pharmacy inventory with real-time availability analysis, clinic webpage medicine checks, and patient-review hospital recommendations.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
